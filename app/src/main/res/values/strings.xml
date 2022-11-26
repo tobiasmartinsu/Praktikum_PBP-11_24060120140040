@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Rasakan performa maksimal dengan laptop gaming Acer Nitro 5 AMD Ryzen™ 6000 Series yang tersedia dalam pilihan 15 atau 17 inci untuk bermain game santai hingga push rank. Dengan kombinasi performa prosesor AMD Ryzen™ 6000 Series1 dan kartu grafis hingga NVIDIA® GeForce RTX™ 3070 TI yang dioptimalkan sepenuhnya demi MGP maksimum, titel jawara game tak sulit diraih. Pilih konfigurasi terbaik untuk mendapat kecepatan maksimum dan kapasitas media penyimpanan besar dengan dua slot PCIe M.2 dan RAM hingga DDR5 4800 32 GB1.</string>
+    <string name="content_specs_display">Sistem Operasi : Microsoft
+    Processor : Ryzen 6000 Series
+    GPU : GeForce RTX 3070
+    RAM : 32GB/1TB
+    Refresh Rate : 165Hz</string>
+    <string name="content_specs_size">15,60 inch</string>
+    <string name="content_specs_battery">2100 mAhbattery</string>
+    <string name="stock">Stock hanya 50 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Mbak Debby</string>
+    <string name="buy">Beli</string>
+    <string name="nitro5">Nitro 5</string>
+    <string name="contact">Contact</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="barang_berhasil_dibeli">Barang berhasil dibeli!</string>
+    <string name="hubungi_customer">Hubungi Customer</string>
+
+</resources>
